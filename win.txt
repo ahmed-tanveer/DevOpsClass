@@ -1,0 +1,1 @@
+#hello this file is create on win pc to show how remoting works 
